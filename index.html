@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,71 @@
     <script defer src="src/js/index.js"></script>
     <link href="dist/styles/index.css" rel="stylesheet">
 </head>
+
 <body>
-<h1>Hello Adrian</h1>
+    <header>
+        <nav class="menu">
+            <div class="logo">
+                <a class="logo__link" href=""><img class="logo__img" src="src/assets/image/logo.png" alt="logo"></a>
+            </div>
+            <ul class="menu__list">
+                <li class="menu__item">
+                    <a class="menu__link" href="#services">Usługi</a>
+                </li>
+                <li class="menu__item">
+                    <a class="menu__link" href="">Projekty</a>
+                </li>
+                <li class="menu__item">
+                    <a class="menu__link" href="">O mnie</a>
+                </li>
+                <li class="menu__item">
+                    <a class="menu__link" href="">Kontakt</a>
+                </li>
+            </ul>
+            <button class="hamburger" aria-label="Menu">
+                <span class="hamburger__container" tabindex="-1">
+                  <span class="hamburger__bars"></span>
+                </span>
+              </button>
+        </nav>
+    </header>
+    <div class="wrapper">
+        <div class="hero">
+            <div class = "hero__description">
+                <h1 class="hero__header">Cześć, jestem Adrian</h1>
+                <p class = "hero__text">zajmuję się projektowaniem i realizacją stron www, aspiruje na junior front-end developera.</p>
+            </div>
+            <div class ="hero__ilustration"><img class="hero__img" src="/src/assets/image/hero-image.png" alt="hero image"></div>
+        </div>
+        <a name="services"></a>
+        <section class="services">
+            <h1 class="services__header">Sprawdź czym się zajmuję</h1>
+            <div class="services__items">
+                <div class= "services__item">
+                    <img class="services__image" src="/src/assets/image/static-website.png" alt="">
+                    <p class="services__text">Tworzeniem statycznych stron www</p>
+                </div>
+                <div class= "services__item">
+                    <img class="services__image" src="/src/assets/image/wordpress.png" alt="">
+                    <p class="services__text">Tworzeniem stron www w oparciu o Wordpress</p>
+                </div>
+                <div class= "services__item">
+                    <img class="services__image" src="/src/assets/image/edit-template.png" alt="">
+                    <p class="services__text">Edycją i dopasowaniem gotowych szablonów</p>
+                </div>
+            </div>
+        </section>
+        <section class="projects"></section>
+        <section class="about"></section>
+    </div>
+    <footer>
+        <div class="contact">
+
+        </div>
+        <div class="footer-copyright">
+            <p>© 2020 Adrian Cygnar. All Rights Reserved.</p>
+        </div>
+    </footer>
 </body>
+
 </html>
