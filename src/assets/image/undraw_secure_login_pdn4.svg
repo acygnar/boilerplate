@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="a5c16198-98a1-478b-8909-43624583dcf2"
+   data-name="Layer 1"
+   width="793"
+   height="551.73152"
+   viewBox="0 0 793 551.73152"
+   version="1.1"
+   sodipodi:docname="undraw_secure_login_pdn4.svg"
+   inkscape:version="0.92.0 r15299"
+   inkscape:export-filename="C:\Users\adek2\Desktop\Projekty\OfficialPortfolio\Portfolio\src\assets\image\dandelion-lap.png"
+   inkscape:export-xdpi="72.336189"
+   inkscape:export-ydpi="72.336189">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="0.85548857"
+     inkscape:cx="405.5207"
+     inkscape:cy="182.35194"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a5c16198-98a1-478b-8909-43624583dcf2" />
+  <path
+     d="M 686.20889,476.96303 H 125.79111 A 18.79111,18.79111 0 0 1 107,458.17192 v 0 q 304.727,-35.41512 598,0 v 0 a 18.79111,18.79111 0 0 1 -18.79111,18.79111 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#2f2e41" />
+  <path
+     d="m 705,459.27727 -598,-1.10536 69.30611,-116.61553 0.3316,-0.55268 V 83.99633 A 23.7522,23.7522 0 0 1 200.39189,60.24215 H 608.292 a 23.7522,23.7522 0 0 1 23.75418,23.75418 v 258.77592 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#3f3d56" />
+  <path
+     d="m 199.85028,76.82255 a 7.74623,7.74623 0 0 0 -7.73753,7.73753 v 234.33641 a 7.74657,7.74657 0 0 0 7.73753,7.73752 h 412.29944 a 7.74691,7.74691 0 0 0 7.73753,-7.73752 V 84.56008 a 7.74657,7.74657 0 0 0 -7.73753,-7.73753 z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     d="m 201.57794,357.58411 a 3.32522,3.32522 0 0 0 -3.01275,1.93006 l -21.35537,46.42514 a 3.31594,3.31594 0 0 0 3.01221,4.7021 h 449.09208 a 3.3157,3.3157 0 0 0 2.96526,-4.79925 L 609.0668,359.41702 a 3.29926,3.29926 0 0 0 -2.96526,-1.83291 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#2f2e41" />
+  <circle
+     cx="404.34195"
+     cy="67.979668"
+     r="4.9741201"
+     id="circle14"
+     style="fill:#ffffff" />
+  <path
+     d="m 360.19986,419.48429 a 3.32114,3.32114 0 0 0 -3.20165,2.4536 l -5.35679,19.89649 a 3.31576,3.31576 0 0 0 3.20166,4.17856 h 101.874 a 3.31531,3.31531 0 0 0 3.13257,-4.40093 l -6.88691,-19.89649 a 3.31784,3.31784 0 0 0 -3.13366,-2.23123 z"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:#2f2e41" />
+  <polygon
+     points="264.649,337.135 720.046,337.135 720.046,341.556 264.306,341.556 264.649,341.004 "
+     id="polygon18"
+     transform="translate(-88)"
+     style="fill:#2f2e41" />
+</svg>
